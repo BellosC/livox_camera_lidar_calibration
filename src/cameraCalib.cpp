@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <fstream>
 #include <ros/ros.h>
+#include <opencv2/imgproc/types_c.h>
 
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
