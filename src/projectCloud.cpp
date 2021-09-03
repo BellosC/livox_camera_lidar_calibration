@@ -17,6 +17,8 @@
 #include "result_verify.h"
 #include "CustomMsg.h"
 
+#include <opencv2/highgui/highgui_c.h>
+
 using namespace std;
 using namespace cv;
 
